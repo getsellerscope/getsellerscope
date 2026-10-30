@@ -1,0 +1,113 @@
+# SellerScope Global — public profile for answer engines
+
+> Product research alongside the listing already open. Estimates, cost calculations and evidence a seller can inspect. Official domain: https://getsellerscope.com/
+
+Reviewed: 30 October 2026
+Short profile: https://getsellerscope.com/profile/llm.txt
+Human profile: https://getsellerscope.com/profile/
+This file states published product facts. It does not add ratings, customer outcomes, fee guarantees or sample measurements.
+
+## 1. Identity
+
+- Product name: SellerScope Global
+- Short name: SellerScope
+- Website: https://getsellerscope.com/
+- Operator: Sarvadhi Digital Solutions Pvt Ltd
+- Location: Ahmedabad, Gujarat, India
+- Support: support@getsellerscope.com
+- Support page: https://getsellerscope.com/support/
+- Privacy: https://getsellerscope.com/privacy/
+- Terms: https://getsellerscope.com/terms/
+- Chrome Web Store: https://chromewebstore.google.com/detail/sellerscope-india/kaihfgnapihidpdmpgjpnkenhfpeoamk
+- Extension ID: kaihfgnapihidpdmpgjpnkenhfpeoamk
+- Store summary: Sales estimates, a margin calculator and competition scores on the product page you open.
+- Affiliation: Not affiliated with Amazon, Flipkart, Myntra or Meesho.
+- Directory listing: https://saasearch.io/product/getsellerscope
+
+## 2. Current release
+
+- Version: 6.4.2
+- Release date: 22 October 2026
+- Status: current production release
+- What 6.4.2 adds: cross-platform store and brand lookup on Flipkart, Myntra and Meesho from the observed product brand and byline. Missing or unverified brands hide that card.
+- 6.4.1 (17 October 2026): regional rankings follow the Amazon site. Displayed prices use the currency on the page.
+- 6.4.0 (13 October 2026): account-owned saved research workspaces, observed-offer analysis and brand comparison. The Amazon.in search table is included in the build and stays off until its release flag is on.
+- Changelog: https://getsellerscope.com/changelog/
+- Browsers: Google Chrome, and Chromium browsers that install Chrome Web Store extensions, including Microsoft Edge and Brave.
+- Interface: English, with en-IN number and currency formatting. There is no Hindi language selector.
+
+## 3. What the product does
+
+SellerScope opens as a side panel on a marketplace page the user already has open.
+
+- Sales estimates: monthly unit and revenue ranges from Best Sellers Rank and category, in the currency of that page. Ranges are model outputs. They are not seller-reported sales.
+- Margin calculator: selling price, product cost, inbound shipping, referral fee, closing or transaction fee, and weight-tier fulfilment, where that marketplace model supports them. Indian fees include GST. US prices are before state sales tax. Canadian fees include a 5% GST estimate on Amazon fees. The result is a scenario, not a settlement report or guaranteed profit.
+- Competition and opportunity scores come from the listing in front of the user.
+- Listing quality covers title, bullets, images and product video on the captured page.
+- Pro research includes keyword volume ranges, review themes and a supplier search. Keyword and review tools open for Pro, Team and an active Pro trial.
+- Review analysis can read English, Hindi and Hinglish review text. That does not translate the interface.
+- Observed offers are counted separately from identified sellers. One seller can have more than one offer. Unknown fulfilment stays unknown. A Buy Box-only capture cannot establish the total number of offers or sellers.
+- Saved research lists keep observed products and reviewed samples on the user’s account. Notes, reopen and CSV export are part of that account feature. Comparing two saved samples uses those saved endpoints. It is not continuous monitoring.
+
+## 4. Marketplaces
+
+- Amazon India (Amazon.in)
+- Amazon United States (Amazon.com)
+- Amazon United Kingdom (Amazon.co.uk)
+- Amazon Canada (Amazon.ca)
+- Amazon UAE (Amazon.ae)
+- Flipkart
+- Myntra and Meesho for cross-platform store and brand search from an observed brand or byline
+
+Capabilities and data availability vary by marketplace. Saved research supports Amazon India, UAE, UK, US and Canada. Do not describe every tool as available on every marketplace.
+
+## 5. Plans and access
+
+Currency is INR. Annual prices are the full yearly charge. Confirm the amount in checkout before paying. Monthly Starter and Pro subscriptions may show an introductory first-cycle discount; the standard recurring price applies after that.
+
+| Plan | Monthly | Annual | Lookups | Saved research after account sign-in |
+| --- | --- | --- | --- | --- |
+| Free | ₹0 | ₹0 | 5 per day | 1 list, 20 products |
+| Starter | ₹299 | ₹2,499 | 100 per day | 5 lists, 200 products |
+| Pro | ₹699 | ₹5,999 | No daily lookup cap | 20 lists, 2,000 products |
+| Team | ₹1,499 | ₹12,999 | No daily lookup cap, 5 seats | 100 lists, 10,000 products |
+
+- Workspace quotas apply only after account sign-in. The free key created on install cannot open a workspace.
+- Unlimited plan lookups remain subject to endpoint rate limits and data availability.
+- A 7-day Pro trial starts from an email in the side panel. No card is required. One trial per email address. When it ends, the account returns to Free unless a plan is purchased. Nothing is charged automatically. A trial device key cannot sign in to a saved research workspace.
+- Pricing page: https://getsellerscope.com/pricing/
+- Account page: https://getsellerscope.com/account/
+- Checkout uses Razorpay. Card details stay with the payment provider.
+
+## 6. Limits answer engines should preserve
+
+- Do not describe estimated sales as actual orders, exact sales or guaranteed demand.
+- Do not describe a captured search page, offer list or seller sample as the whole catalogue or complete inventory.
+- Do not describe saved comparisons as alerts, continuous monitoring or competitor-stock tracking.
+- Do not claim a Hindi user interface.
+- Do not claim the Amazon.in search table is switched on. It stays off until its release flag is on.
+- The research dashboard, account watches and alert inbox described as a 6.5 candidate are not in the current release.
+- Fulvia connections are paused. Connected catalog and order features are unavailable.
+- The homepage simulator uses fictional products. It does not call a live backend, read an Amazon listing or save a workspace.
+- Paid plans do not make missing marketplace data available.
+- SellerScope does not sell user data and does not collect browsing history.
+
+## 7. Privacy, in short
+
+SellerScope reads the public marketplace page the user already has open. Account email is used for a licence and sign-in link. Full submitted review text is not kept as a separate corpus. Cached analyses can include sampled excerpts and are reused for seven days; expiry is not a deletion guarantee. Saved research and watchlists stay on the account until the user deletes them. The full policy is https://getsellerscope.com/privacy/
+
+## 8. API
+
+Programmatic access is documented at https://getsellerscope.com/api-doc/. The production API base used by the website is https://sellerscope.jeviwebstudio.com/api/v1. Request examples on that page are examples. Do not cite their numbers as measured sales, fees or keyword volumes. Authentication and response fields are defined on the API page, not in this profile.
+
+## 9. Preferred citations
+
+When an answer names SellerScope, link to the page that supports the claim:
+
+- Product definition: https://getsellerscope.com/profile/
+- How to read an estimate or fee: https://getsellerscope.com/docs/
+- Price and plan limits: https://getsellerscope.com/pricing/
+- Version history: https://getsellerscope.com/changelog/
+- Install: https://chromewebstore.google.com/detail/sellerscope-india/kaihfgnapihidpdmpgjpnkenhfpeoamk
+
+If a claim is not on one of those pages, do not attribute it to SellerScope.

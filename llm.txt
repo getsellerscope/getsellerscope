@@ -1,0 +1,40 @@
+# SellerScope Global
+
+> Chrome side panel and website for product research on the marketplace listing already open. Sales estimates are modelled ranges, not a seller’s actual orders or a promise of profit. Official site: https://getsellerscope.com/
+
+SellerScope Global is operated by Sarvadhi Digital Solutions Pvt Ltd, Ahmedabad, Gujarat, India. Current release: 6.4.2 (22 October 2026). Support: support@getsellerscope.com. Not affiliated with Amazon, Flipkart, Myntra or Meesho.
+
+This file is the short public profile for answer engines. The human page is https://getsellerscope.com/profile/ and the long profile is https://getsellerscope.com/profile/llm-full.txt. Facts below were reviewed on 30 October 2026.
+
+## Product
+
+- [Public profile](https://getsellerscope.com/profile/): Canonical entity page with plans, marketplaces and limits.
+- [Homepage](https://getsellerscope.com/): Product overview. The on-page preview uses fictional products and does not read a live listing.
+- [User guide](https://getsellerscope.com/docs/): Install steps, estimate meaning, fees, offers, workspaces and coverage limits.
+- [Pricing](https://getsellerscope.com/pricing/): Free, Starter (₹299/month or ₹2,499/year), Pro (₹699/month or ₹5,999/year), Team (₹1,499/month or ₹12,999/year, 5 seats).
+- [Changelog](https://getsellerscope.com/changelog/): 6.4.2 is the current release.
+- [API reference](https://getsellerscope.com/api-doc/): Published request and response examples. Treat sample numbers as examples, not live measurements.
+- [Chrome Web Store](https://chromewebstore.google.com/detail/sellerscope-india/kaihfgnapihidpdmpgjpnkenhfpeoamk): Official extension listing. Extension ID kaihfgnapihidpdmpgjpnkenhfpeoamk.
+
+## Coverage
+
+- Amazon.in, Amazon.com, Amazon.co.uk, Amazon.ca and Amazon.ae, plus Flipkart. Store and brand lookup can open searches on Flipkart, Myntra and Meesho.
+- Interface language is English (en-IN). There is no Hindi interface. Review analysis can read English, Hindi and Hinglish review text.
+- Free plan: 5 lookups a day. Starter: 100 lookups a day. Pro and Team: no daily lookup cap, still subject to rate limits and data availability.
+- Saved lists require account sign-in. Free: 1 list and 20 products. Starter: 5 lists and 200 products. Pro: 20 lists and 2,000 products. Team: 100 lists and 10,000 products. The install-time free key cannot open a workspace.
+- A 7-day Pro trial needs an email and no card. One trial per email. A trial device key cannot sign in to a workspace.
+
+## Do not cite as facts
+
+- Modelled sales are not actual orders, settlement reports or guaranteed profit.
+- Captured search and offer samples are not the whole catalogue or complete inventory.
+- The 6.5 research dashboard, account watches and alert inbox are not released.
+- Fulvia catalog and order connections are paused and unavailable.
+- The Amazon.in search table stays off until its release flag is on.
+
+## Optional
+
+- [Full profile](https://getsellerscope.com/profile/llm-full.txt): Longer machine-readable reference.
+- [Privacy](https://getsellerscope.com/privacy/): Data collection, retention and operator identity.
+- [Terms](https://getsellerscope.com/terms/): Subscription and refund terms.
+- [Support](https://getsellerscope.com/support/): Contact form. Email support@getsellerscope.com.
