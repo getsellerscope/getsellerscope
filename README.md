@@ -1,6 +1,6 @@
 # SellerScope public profile
 
-Static public profile for [SellerScope Global](https://getsellerscope.com/), published at [getsellerscope.com/profile/](https://getsellerscope.com/profile/).
+Static public profile for [SellerScope Global](https://getsellerscope.com/). The profile files are in this repository: [github.com/getsellerscope/getsellerscope](https://github.com/getsellerscope/getsellerscope).
 
 The page states who operates the product, what the current release does, which marketplaces it covers, and the published plans. It is written for people and for answer engines. Facts here are reviewed against the website, the Chrome Web Store listing, and the current release notes. Sales figures on the product itself are modelled ranges, not a seller’s actual orders.
 
@@ -14,15 +14,15 @@ The page states who operates the product, what the current release does, which m
 | `robots.txt` | Allows general crawlers and named answer-engine bots |
 | `sitemap.xml` | Lists the profile page and both `llm` files |
 
-`index.html` links to `llm.txt` and `llm-full.txt` with relative paths, so those files stay beside the page when the folder is published.
+`index.html` links to `llm.txt` and `llm-full.txt` with relative paths, so those files stay beside the page in the repository.
 
-## Live URLs
+## Profile files on GitHub
 
-- https://getsellerscope.com/profile/
-- https://getsellerscope.com/profile/llm.txt
-- https://getsellerscope.com/profile/llm-full.txt
+- [Human profile](https://github.com/getsellerscope/getsellerscope/blob/main/index.html)
+- [Short profile](https://github.com/getsellerscope/getsellerscope/blob/main/llm.txt)
+- [Full profile](https://github.com/getsellerscope/getsellerscope/blob/main/llm-full.txt)
 
-Canonical product pages (home, guides, pricing, changelog, API, privacy, terms, and support) live on the main site, not in this repo.
+Canonical product pages (home, guides, pricing, changelog, API, privacy, terms, and support) live on [getsellerscope.com](https://getsellerscope.com/), not in this repo.
 
 ## Keeping it current
 

@@ -3,8 +3,8 @@
 > Product research alongside the listing already open. Estimates, cost calculations and evidence a seller can inspect. Official domain: https://getsellerscope.com/
 
 Reviewed: 30 October 2026
-Short profile: https://getsellerscope.com/profile/llm.txt
-Human profile: https://getsellerscope.com/profile/
+Short profile: https://github.com/getsellerscope/getsellerscope/blob/main/llm.txt
+Human profile: https://github.com/getsellerscope/getsellerscope/blob/main/index.html
 This file states published product facts. It does not add ratings, customer outcomes, fee guarantees or sample measurements.
 
 ## 1. Identity
@@ -104,7 +104,7 @@ Programmatic access is documented at https://getsellerscope.com/api-doc/. The pr
 
 When an answer names SellerScope, link to the page that supports the claim:
 
-- Product definition: https://getsellerscope.com/profile/
+- Product definition: https://github.com/getsellerscope/getsellerscope/blob/main/index.html
 - How to read an estimate or fee: https://getsellerscope.com/docs/
 - Price and plan limits: https://getsellerscope.com/pricing/
 - Version history: https://getsellerscope.com/changelog/

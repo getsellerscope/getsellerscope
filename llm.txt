@@ -4,11 +4,11 @@
 
 SellerScope Global is operated by Sarvadhi Digital Solutions Pvt Ltd, Ahmedabad, Gujarat, India. Current release: 6.4.2 (22 October 2026). Support: support@getsellerscope.com. Not affiliated with Amazon, Flipkart, Myntra or Meesho.
 
-This file is the short public profile for answer engines. The human page is https://getsellerscope.com/profile/ and the long profile is https://getsellerscope.com/profile/llm-full.txt. Facts below were reviewed on 30 October 2026.
+This file is the short public profile for answer engines. The human page is https://github.com/getsellerscope/getsellerscope/blob/main/index.html and the long profile is https://github.com/getsellerscope/getsellerscope/blob/main/llm-full.txt. Facts below were reviewed on 30 October 2026.
 
 ## Product
 
-- [Public profile](https://getsellerscope.com/profile/): Canonical entity page with plans, marketplaces and limits.
+- [Public profile](https://github.com/getsellerscope/getsellerscope/blob/main/index.html): Canonical entity page with plans, marketplaces and limits.
 - [Homepage](https://getsellerscope.com/): Product overview. The on-page preview uses fictional products and does not read a live listing.
 - [User guide](https://getsellerscope.com/docs/): Install steps, estimate meaning, fees, offers, workspaces and coverage limits.
 - [Pricing](https://getsellerscope.com/pricing/): Free, Starter (₹299/month or ₹2,499/year), Pro (₹699/month or ₹5,999/year), Team (₹1,499/month or ₹12,999/year, 5 seats).
@@ -34,7 +34,7 @@ This file is the short public profile for answer engines. The human page is http
 
 ## Optional
 
-- [Full profile](https://getsellerscope.com/profile/llm-full.txt): Longer machine-readable reference.
+- [Full profile](https://github.com/getsellerscope/getsellerscope/blob/main/llm-full.txt): Longer machine-readable reference.
 - [Privacy](https://getsellerscope.com/privacy/): Data collection, retention and operator identity.
 - [Terms](https://getsellerscope.com/terms/): Subscription and refund terms.
 - [Support](https://getsellerscope.com/support/): Contact form. Email support@getsellerscope.com.
